@@ -1,0 +1,4 @@
+PORT=10000
+CLIENT_ORIGIN=http://localhost:5173
+RATE_LIMIT_MAX=100
+JWT_SECRET=your-secret-key
